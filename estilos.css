@@ -1,0 +1,10 @@
+body{
+  background: #2f3c47;
+  background: -moz-radial-gradient(center, ellipse cover, #2f3c47 0%, #2f3c47 28%, #3872af 65%, #3c87d7 79%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #2f3c47), color-stop(28%, #2f3c47), color-stop(65%, #3872af), color-stop(79%, #3c87d7));
+  background: -webkit-radial-gradient(center, ellipse cover, #2f3c47 0%, #2f3c47 28%, #3872af 65%, #3c87d7 79%);
+  background: -o-radial-gradient(center, ellipse cover, #2f3c47 0%, #2f3c47 28%, #3872af 65%, #3c87d7 79%);
+  background: -ms-radial-gradient(center, ellipse cover, #2f3c47 0%, #2f3c47 28%, #3872af 65%, #3c87d7 79%);
+  background: radial-gradient(ellipse at center, #2f3c47 0%, #2f3c47 28%, #3872af 65%, #3c87d7 79%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f3c47', endColorstr='#3c87d7', GradientType=1 );
+}
